@@ -32,4 +32,5 @@ open terminal using `ctrl+alt+t` and type `qrcode` and then type the text you wa
     alias qrcode="python3 /path/to/qr.py"
     ```
 5. save the file and restart your terminal
-6. 
+
+have FUN! :')
