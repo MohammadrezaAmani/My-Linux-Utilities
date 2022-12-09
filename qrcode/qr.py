@@ -28,4 +28,4 @@ img.save(os.path.dirname(__file__) + "/" + id)
 
 # showing qr code image
 os.system("xdg-open %s" % (os.path.dirname(__file__) + "/" + id))
-os.remove(os.path.dirname(__file__) + "/" + id)
+# os.remove(os.path.dirname(__file__) + "/" + id)
